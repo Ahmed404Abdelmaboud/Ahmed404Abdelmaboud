@@ -9,7 +9,4 @@ Hi, I'm Ahmed 👋  <br>Aspiring AI Engineer  <br><br>I have a background in dat
 ![](https://streak-stats.demolab.com/?user=Ahmed404Abdelmaboud&theme=transparent&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ahmed404Abdelmaboud&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=Ahmed404Abdelmaboud&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
